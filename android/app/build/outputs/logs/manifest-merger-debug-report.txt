@@ -1,0 +1,156 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/mahesh/workspace/Demo1/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /home/mahesh/workspace/Demo1/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /home/mahesh/workspace/Demo1/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /home/mahesh/workspace/Demo1/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from [:react-native-vector-icons] /home/mahesh/workspace/Demo1/node_modules/react-native-vector-icons/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native:0.57.8] /root/.gradle/caches/transforms-1/files-1.1/react-native-0.57.8.aar/051e351a5098101cfef48a0821c41ad7/AndroidManifest.xml:2:1-15:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/cd35d197c6e90a348e73744216a3333f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] /root/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/6f439542138053cee973e6c0d246d60d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /root/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/61b5eeb78f96b19845a738ee397e7396/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /root/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/bd2577f8b0a3d56b1cabfafc2751342e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /root/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/e4f40cf237e39662be9912a8db645549/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /root/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/ee08cdc9ccc7c202606aaa4b53d85b4e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /root/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/0a20929478531ee512b3da1cd5110639/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:1.10.0] /root/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/19519165670d8c695252a77a71b59223/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /root/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/b49e9cc96ac1c6a38bb9a271d365a15f/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:1.10.0] /root/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/7adc34744225c0293b23b9bf4c97b943/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /root/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/530383a2aaafba2e0f5014c81fa77d28/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /root/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/72adb26f2a603f8ea816b2732261ac26/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.5.1] /root/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/e8b958d8eaf7a90505ed1445f3512481/AndroidManifest.xml:2:1-13:12
+MERGED from [org.webkit:android-jsc:r174650] /root/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/174c08988ee483bc036759ca01197f0c/AndroidManifest.xml:1:1-3:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /root/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/55c773af85e658d5f9b1630fd009056b/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /root/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/bf3cb6e35a104e6475ba318428c51f3e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /root/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/060f802b8cf74736925e290dd2ca6a38/AndroidManifest.xml:2:1-9:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /root/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/9b09a0127af2d22197af5eef3785d166/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /root/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/6b8761567750c10a5afaabb5b4227820/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/mahesh/workspace/Demo1/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /home/mahesh/workspace/Demo1/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /home/mahesh/workspace/Demo1/android/app/src/main/AndroidManifest.xml:1:1-26:12
+	package
+		ADDED from /home/mahesh/workspace/Demo1/android/app/src/main/AndroidManifest.xml:2:5-24
+		INJECTED from /home/mahesh/workspace/Demo1/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/mahesh/workspace/Demo1/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/mahesh/workspace/Demo1/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/mahesh/workspace/Demo1/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /home/mahesh/workspace/Demo1/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/mahesh/workspace/Demo1/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/mahesh/workspace/Demo1/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /home/mahesh/workspace/Demo1/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/mahesh/workspace/Demo1/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/mahesh/workspace/Demo1/android/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /home/mahesh/workspace/Demo1/android/app/src/main/AndroidManifest.xml:4:22-64
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /home/mahesh/workspace/Demo1/android/app/src/main/AndroidManifest.xml:5:5-77
+MERGED from [com.facebook.react:react-native:0.57.8] /root/.gradle/caches/transforms-1/files-1.1/react-native-0.57.8.aar/051e351a5098101cfef48a0821c41ad7/AndroidManifest.xml:11:5-78
+MERGED from [com.facebook.react:react-native:0.57.8] /root/.gradle/caches/transforms-1/files-1.1/react-native-0.57.8.aar/051e351a5098101cfef48a0821c41ad7/AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from /home/mahesh/workspace/Demo1/android/app/src/main/AndroidManifest.xml:5:22-75
+application
+ADDED from /home/mahesh/workspace/Demo1/android/app/src/main/AndroidManifest.xml:7:5-24:19
+MERGED from [com.facebook.react:react-native:0.57.8] /root/.gradle/caches/transforms-1/files-1.1/react-native-0.57.8.aar/051e351a5098101cfef48a0821c41ad7/AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.react:react-native:0.57.8] /root/.gradle/caches/transforms-1/files-1.1/react-native-0.57.8.aar/051e351a5098101cfef48a0821c41ad7/AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.soloader:soloader:0.5.1] /root/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/e8b958d8eaf7a90505ed1445f3512481/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.5.1] /root/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/e8b958d8eaf7a90505ed1445f3512481/AndroidManifest.xml:11:5-20
+MERGED from [org.webkit:android-jsc:r174650] /root/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/174c08988ee483bc036759ca01197f0c/AndroidManifest.xml:2:3-17
+MERGED from [org.webkit:android-jsc:r174650] /root/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/174c08988ee483bc036759ca01197f0c/AndroidManifest.xml:2:3-17
+	android:label
+		ADDED from /home/mahesh/workspace/Demo1/android/app/src/main/AndroidManifest.xml:9:7-39
+	android:icon
+		ADDED from /home/mahesh/workspace/Demo1/android/app/src/main/AndroidManifest.xml:10:7-41
+	android:allowBackup
+		ADDED from /home/mahesh/workspace/Demo1/android/app/src/main/AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from /home/mahesh/workspace/Demo1/android/app/src/main/AndroidManifest.xml:12:7-38
+	android:name
+		ADDED from /home/mahesh/workspace/Demo1/android/app/src/main/AndroidManifest.xml:8:7-38
+activity#com.demo1.MainActivity
+ADDED from /home/mahesh/workspace/Demo1/android/app/src/main/AndroidManifest.xml:13:7-22:18
+	android:label
+		ADDED from /home/mahesh/workspace/Demo1/android/app/src/main/AndroidManifest.xml:15:9-41
+	android:windowSoftInputMode
+		ADDED from /home/mahesh/workspace/Demo1/android/app/src/main/AndroidManifest.xml:17:9-51
+	android:configChanges
+		ADDED from /home/mahesh/workspace/Demo1/android/app/src/main/AndroidManifest.xml:16:9-79
+	android:name
+		ADDED from /home/mahesh/workspace/Demo1/android/app/src/main/AndroidManifest.xml:14:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/mahesh/workspace/Demo1/android/app/src/main/AndroidManifest.xml:18:9-21:25
+action#android.intent.action.MAIN
+ADDED from /home/mahesh/workspace/Demo1/android/app/src/main/AndroidManifest.xml:19:13-65
+	android:name
+		ADDED from /home/mahesh/workspace/Demo1/android/app/src/main/AndroidManifest.xml:19:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /home/mahesh/workspace/Demo1/android/app/src/main/AndroidManifest.xml:20:13-73
+	android:name
+		ADDED from /home/mahesh/workspace/Demo1/android/app/src/main/AndroidManifest.xml:20:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /home/mahesh/workspace/Demo1/android/app/src/main/AndroidManifest.xml:23:7-84
+	android:name
+		ADDED from /home/mahesh/workspace/Demo1/android/app/src/main/AndroidManifest.xml:23:17-81
+uses-sdk
+INJECTED from /home/mahesh/workspace/Demo1/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/mahesh/workspace/Demo1/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/mahesh/workspace/Demo1/android/app/src/main/AndroidManifest.xml
+MERGED from [:react-native-vector-icons] /home/mahesh/workspace/Demo1/node_modules/react-native-vector-icons/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] /home/mahesh/workspace/Demo1/node_modules/react-native-vector-icons/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.57.8] /root/.gradle/caches/transforms-1/files-1.1/react-native-0.57.8.aar/051e351a5098101cfef48a0821c41ad7/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.57.8] /root/.gradle/caches/transforms-1/files-1.1/react-native-0.57.8.aar/051e351a5098101cfef48a0821c41ad7/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:27.1.1] /root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/cd35d197c6e90a348e73744216a3333f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/cd35d197c6e90a348e73744216a3333f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /root/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/6f439542138053cee973e6c0d246d60d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /root/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/6f439542138053cee973e6c0d246d60d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /root/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/61b5eeb78f96b19845a738ee397e7396/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /root/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/61b5eeb78f96b19845a738ee397e7396/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /root/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/bd2577f8b0a3d56b1cabfafc2751342e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /root/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/bd2577f8b0a3d56b1cabfafc2751342e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /root/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/e4f40cf237e39662be9912a8db645549/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /root/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/e4f40cf237e39662be9912a8db645549/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /root/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/ee08cdc9ccc7c202606aaa4b53d85b4e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /root/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/ee08cdc9ccc7c202606aaa4b53d85b4e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /root/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/0a20929478531ee512b3da1cd5110639/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /root/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/0a20929478531ee512b3da1cd5110639/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:1.10.0] /root/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/19519165670d8c695252a77a71b59223/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.10.0] /root/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/19519165670d8c695252a77a71b59223/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /root/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/b49e9cc96ac1c6a38bb9a271d365a15f/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /root/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/b49e9cc96ac1c6a38bb9a271d365a15f/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] /root/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/7adc34744225c0293b23b9bf4c97b943/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] /root/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/7adc34744225c0293b23b9bf4c97b943/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /root/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/530383a2aaafba2e0f5014c81fa77d28/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /root/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/530383a2aaafba2e0f5014c81fa77d28/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /root/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/72adb26f2a603f8ea816b2732261ac26/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /root/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/72adb26f2a603f8ea816b2732261ac26/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.5.1] /root/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/e8b958d8eaf7a90505ed1445f3512481/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.5.1] /root/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/e8b958d8eaf7a90505ed1445f3512481/AndroidManifest.xml:7:5-9:41
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /root/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/55c773af85e658d5f9b1630fd009056b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /root/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/55c773af85e658d5f9b1630fd009056b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /root/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/bf3cb6e35a104e6475ba318428c51f3e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /root/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/bf3cb6e35a104e6475ba318428c51f3e/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /root/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/060f802b8cf74736925e290dd2ca6a38/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /root/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/060f802b8cf74736925e290dd2ca6a38/AndroidManifest.xml:5:5-7:41
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /root/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/9b09a0127af2d22197af5eef3785d166/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /root/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/9b09a0127af2d22197af5eef3785d166/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /root/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/6b8761567750c10a5afaabb5b4227820/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /root/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/6b8761567750c10a5afaabb5b4227820/AndroidManifest.xml:20:5-44
+INJECTED from /home/mahesh/workspace/Demo1/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/mahesh/workspace/Demo1/android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/mahesh/workspace/Demo1/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/mahesh/workspace/Demo1/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/mahesh/workspace/Demo1/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/mahesh/workspace/Demo1/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/mahesh/workspace/Demo1/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/mahesh/workspace/Demo1/android/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+IMPLIED from /home/mahesh/workspace/Demo1/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from /home/mahesh/workspace/Demo1/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from /home/mahesh/workspace/Demo1/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE

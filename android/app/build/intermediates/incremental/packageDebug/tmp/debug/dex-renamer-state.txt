@@ -1,0 +1,4 @@
+#Sat Jan 19 15:32:08 IST 2019
+base.0=/home/mahesh/workspace/Demo1/android/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
